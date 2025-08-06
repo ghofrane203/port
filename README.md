@@ -1,6 +1,5 @@
 ## Introduction
 
-
 ## ⚙️ Tech Stack
 
 * **React** – Component-based UI development
