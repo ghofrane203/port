@@ -69,5 +69,3 @@ Your app will be available at: [http://localhost:5173](http://localhost:5173)
 4. Click **Deploy**
 
 Your live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)
-
----
