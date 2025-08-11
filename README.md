@@ -8,9 +8,7 @@
 * **Radix UI** – Accessible component primitives
 * **TypeScript (optional)** – Type safety and tooling
 * **GitHub & Vercel** – Deployment
-
 ---
-
 ## ⚡️ Features
 
 * 🌑 **Light/Dark Mode Toggle**
