@@ -1,6 +1,5 @@
 ## Introduction
 ## ⚙️ Tech Stack
-
 * **React** – Component-based UI development
 * **Vite** – Lightning-fast build tool
 * **TailwindCSS** – Utility-first CSS for styling
