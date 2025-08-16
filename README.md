@@ -27,7 +27,7 @@
 
 * 🖼️ **Projects Showcase**
   Display screenshots, tech stacks, and GitHub/demo links
-
+ 
 * 📩 **Contact Section**
   Social icons + responsive contact form with toast notifications
 
