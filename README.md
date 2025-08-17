@@ -54,7 +54,7 @@ npm run dev
 Your app will be available at: [http://localhost:5173](http://localhost:5173)
 ---
 ## ☁️ Deployment
-
+ 
 ### Deploy on Vercel
 
 1. Push your code to GitHub
