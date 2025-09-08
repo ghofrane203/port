@@ -8,7 +8,7 @@ I## Introduction
 * **TypeScript (optional)** – Type safety and tooling
 * **GitHub & Vercel** – Deployment
  
-## ⚡️ Features 
+## ⚡️ Features  
 
 * 🌑 **Light/Dark Mode Toggle**
   Save theme preference in local storage with beautiful transitions
